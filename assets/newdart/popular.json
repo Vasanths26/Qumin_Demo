@@ -1,0 +1,82 @@
+[
+    {
+        "curation_name": "Indian",
+        "curation_type": "cuisine",
+        "description": "Indian",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Indian.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Indian.jpg",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "d4c00b4a-ff5a-4cae-8589-c03f307e2696"
+    },
+    {
+        "curation_name": "Asian",
+        "curation_type": "cuisine",
+        "description": "Asian",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Asian.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Asian.jpg",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "2bbd3371-4195-4560-af76-489c14e9845e"
+    },
+    {
+        "curation_name": "World Cuisine",
+        "curation_type": "cuisine",
+        "description": "World Cuisine",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/World-Cuisine.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/World-cuisine-inside.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "7fbd06f1-a66a-4164-9a6c-445973aaf5b8"
+    },
+    {
+        "curation_name": "Biryani",
+        "curation_type": "dish_type",
+        "description": "Biryani",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Biryani.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Biryani.jpg",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "0f6c1c32-b8a3-4765-9140-ec64f778f5cf"
+    },
+    {
+        "curation_name": "Burgers & Rolls",
+        "curation_type": "dish_type",
+        "description": "Burgers & Rolls",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Burgers-Rolls.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/Rolls-inside.jpeg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "bec5fa8e-f503-4db8-ae81-38887ae6a4e2"
+    },
+    {
+        "curation_name": "Pizza & Pasta",
+        "curation_type": "dish_type",
+        "description": "Pizza & Pasta",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Pizza.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Pizza-Pasta.jpg",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "61d61f10-c8dc-46e7-8d2e-8ad20ac1e427"
+    },
+    {
+        "curation_name": "Calorie Lite",
+        "curation_type": "classification",
+        "description": "",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/eat-what-you-love/Calorie-Lite.jpg",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/inside-page/Calorie-Lite.jpg",
+        "target_element_id": "qmin_calorie_lite",
+        "restaurant_id": null,
+        "curation_id": "06928e03-aea9-4f1d-8a0d-74ff0137b9d6"
+    },
+    {
+        "curation_name": "Restaurants",
+        "curation_type": "hotels",
+        "description": "",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/Restaurant-home.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-2/restaurants-inside.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "target_element_id": "",
+        "restaurant_id": null,
+        "curation_id": "f25e185f-3d8e-4a58-9c16-13236036f6f9"
+    }
+]

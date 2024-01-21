@@ -1,0 +1,45 @@
+[
+    {
+        "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/default/Qmin-App-Banner-25-off-327-by-100-pix-03.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "is_clickable": false,
+        "sort_sequence": 3,
+        "target_element": "",
+        "target_element_id": "",
+        "id": "QminOffer",
+        "meta": {}
+    },
+    {
+        "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/festive/Qmin_EverydayEasy_AnnouncementBanner_327-by-100-pix-02.jpg",
+        "is_clickable": true,
+        "sort_sequence": 4,
+        "target_element": "channel",
+        "target_element_id": "qmin_red",
+        "id": "EverydayEasyClickableBanner",
+        "meta": {
+            "name": "Everyday Easy",
+            "id": "a23e59a1-fd6f-437c-8556-6ac7fc18c688",
+            "image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/homepage/explore/Everyday-Easy.jpg",
+            "created_at": "2022-12-19T15:37:55.7Z",
+            "header_text": "Everyday Easy",
+            "body_hero_text": "Happiness Delivered",
+            "body_description": "Ready to make your Everyday Easy? We have the perfect Q for your cravings – Enjoy wraps & rolls, biryani & pulao, tikkas, Indian mains, pizzas, desserts & much more delivered right to your doorstep.",
+            "query_attribute": "qmin_red",
+            "channel_description": "Popular Favourites",
+            "is_new": true,
+            "type": "generic",
+            "min_price": "₹200 Onwards",
+            "icon_url": null,
+            "restaurant_id": null,
+            "static_content_url": "$base_url?catgory=qmin_red"
+        }
+    },
+    {
+        "image_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/low-cal/Qmin-Low-Cal-Meals-Announcement-Banner-327-by-100pix.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+        "is_clickable": true,
+        "sort_sequence": 4,
+        "target_element": "channel",
+        "target_element_id": "qmin_calorie_lite",
+        "id": "QminLowCalClickableBanner",
+        "meta": {}
+    }
+]

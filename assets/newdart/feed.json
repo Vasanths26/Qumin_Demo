@@ -1,0 +1,393 @@
+[
+    {
+        "name": "What's New",
+        "description": "",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-1/Qmin-Whats-New-Story-Image.png",
+        "sort_sequence": 0,
+        "is_clickable": false,
+        "stories": [],
+        "feed_id": "b9bfa435-a0c0-4d96-9842-40162a9118b6",
+        "is_viewed": false,
+        "story_index": 0
+    },
+    {
+        "name": "Match-Day Snack Boxes",
+        "description": "",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/Final.jpg",
+        "sort_sequence": 1,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "0b705339-c8a7-4572-99a7-73967aef7b0f",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/End_Frame_IPL-V4.mp4",
+                "cta_type": "",
+                "cta_text": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": true
+            },
+            {
+                "story_id": "a501f41c-4852-47a5-b45f-6b96e0194834",
+                "sort_sequence": 2,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/End_Frame_IPL-V4.mp4",
+                "cta_type": "",
+                "cta_text": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": false
+            }
+        ],
+        "feed_id": "29668c51-d3c4-454a-a01d-7dac40387b60",
+        "is_viewed": false,
+        "story_index": 1
+    },
+    {
+        "name": "Asian Delicacies",
+        "description": "",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-1/Asian-fav.jpg",
+        "sort_sequence": 2,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "32d3bd0d-8c05-46d9-990f-fb4a8a720ac6",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/videos/Asian-Delicacies.mp4",
+                "cta_type": "",
+                "cta_text": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": true
+            }
+        ],
+        "feed_id": "9f66cf5a-534b-469b-88c1-8422bef93275",
+        "is_viewed": true,
+        "story_index": 0
+    },
+    {
+        "name": "Indian Favourites",
+        "description": "Indian Favourites",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-1/Indian.jpg",
+        "sort_sequence": 3,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "0b77da02-5375-47b6-b8ca-06bcdeb6804c",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/videos/Indian-Favourites.mp4",
+                "cta_text": "",
+                "cta_type": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": true
+            }
+        ],
+        "feed_id": "c7879f1a-180d-4089-8acc-f37241553a39",
+        "is_viewed": true,
+        "story_index": 0
+    },
+    {
+        "name": "Italian Classics",
+        "description": "Italian Classics",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-1/Italian.jpg",
+        "sort_sequence": 4,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "175f8ae3-065f-46c2-9819-f3d46eecdab0",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/videos/Italian-Classics.mp4",
+                "cta_text": "",
+                "cta_type": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": false
+            }
+        ],
+        "feed_id": "e9f5d1da-7544-4c8d-a0e6-f1ac0a7469a1",
+        "is_viewed": false,
+        "story_index": 0
+    },
+    {
+        "name": "Sweet Indulgences ",
+        "description": "Sweet Indulgences ",
+        "icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/home-page-images-1/Sweet-indulgences.jpg",
+        "sort_sequence": 5,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "6bbbca1e-8b82-4d51-bb49-b1170e19be1d",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/app-images/videos/Sweet-Indulgences.mp4",
+                "cta_text": "",
+                "cta_type": "",
+                "cta_target_element_type": "",
+                "cta_target_element_id": "",
+                "meta": {},
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a>"
+                },
+                "is_viewed": false
+            }
+        ],
+        "feed_id": "be88bc07-4b90-412d-ba27-8c5dd5c12453",
+        "is_viewed": false,
+        "story_index": 0
+    },
+    {
+        "name": "Purani Dilli",
+        "description": "Purani Dilli",
+        "icon_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/default/sample-images/Masked-Group-3x-2.png",
+        "sort_sequence": 6,
+        "is_clickable": true,
+        "stories": [
+            {
+                "story_id": "6a85a485-7601-41d5-93f0-1021c6bc8db3",
+                "sort_sequence": 1,
+                "content_type": "video",
+                "content_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/videos/Video-with-audio-1.mp4",
+                "cta_text": "Order Now",
+                "cta_type": "internal",
+                "cta_target_element_type": "festive_menu",
+                "cta_target_element_id": "2022-Mumbai-Purani Dilli",
+                "meta": {
+                    "id": "2022-Mumbai-Purani Dilli",
+                    "festival_id": "2022-Mumbai-Purani Dilli",
+                    "festival_name": "Purani Dilli",
+                    "festival_description": " ",
+                    "banner_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "festival_icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "start_date": "",
+                    "end_date": "",
+                    "pin_code_range": [],
+                    "prebook_enabled": true,
+                    "prebook_event_name": "Purani Dilli",
+                    "prebook_event_description": "Purani Dilli Pre Event Booking Feature",
+                    "featuring_restaurants": [
+                        {
+                            "id": "d766c2d7-cf0c-4b8b-8422-2b9fcafdd744",
+                            "name": "Masala Kraft",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "Taj Mahal Palace",
+                            "cost_for_two": 4000,
+                            "restaurant_details_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "menu_page_header_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Secondary-(2).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "home_page_card_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "cuisines": "Indian Cuisine"
+                        }
+                    ],
+                    "featuring_hotels": [
+                        {
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "The Taj Mahal Palace",
+                            "hotel_code": "TMPT",
+                            "hotel_image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/qmin-hotels/phase-2/TMPT-Image.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "distance_in_km": 2.9
+                        }
+                    ]
+                },
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a> "
+                },
+                "is_viewed": true
+            },
+            {
+                "story_id": "2b2ac2b7-0eaf-48b3-8f5f-cb9b6db2d1c2",
+                "sort_sequence": 2,
+                "content_type": "video",
+                "content_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/videos/Video-with-audio-1.mp4",
+                "cta_text": "Order Now",
+                "cta_type": "internal",
+                "cta_target_element_type": "festive_menu",
+                "cta_target_element_id": "2022-Mumbai-Purani Dilli",
+                "meta": {
+                    "id": "2022-Mumbai-Purani Dilli",
+                    "festival_id": "2022-Mumbai-Purani Dilli",
+                    "festival_name": "Purani Dilli",
+                    "festival_description": " ",
+                    "banner_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "festival_icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "start_date": "",
+                    "end_date": "",
+                    "pin_code_range": [],
+                    "prebook_enabled": true,
+                    "prebook_event_name": "Purani Dilli",
+                    "prebook_event_description": "Purani Dilli Pre Event Booking Feature",
+                    "featuring_restaurants": [
+                        {
+                            "id": "d766c2d7-cf0c-4b8b-8422-2b9fcafdd744",
+                            "name": "Masala Kraft",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "Taj Mahal Palace",
+                            "cost_for_two": 4000,
+                            "restaurant_details_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "menu_page_header_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Secondary-(2).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "home_page_card_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "cuisines": "Indian Cuisine"
+                        }
+                    ],
+                    "featuring_hotels": [
+                        {
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "The Taj Mahal Palace",
+                            "hotel_code": "TMPT",
+                            "hotel_image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/qmin-hotels/phase-2/TMPT-Image.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "distance_in_km": 2.9
+                        }
+                    ]
+                },
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a> "
+                },
+                "is_viewed": true
+            },
+            {
+                "story_id": "25b6c64c-42d5-4952-9cc8-8cc325474c90",
+                "sort_sequence": 3,
+                "content_type": "video",
+                "content_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/videos/Video-with-audio-1.mp4",
+                "cta_text": "Order Now",
+                "cta_type": "internal",
+                "cta_target_element_type": "festive_menu",
+                "cta_target_element_id": "2022-Mumbai-Purani Dilli",
+                "meta": {
+                    "id": "2022-Mumbai-Purani Dilli",
+                    "festival_id": "2022-Mumbai-Purani Dilli",
+                    "festival_name": "Purani Dilli",
+                    "festival_description": " ",
+                    "banner_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "festival_icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "start_date": "",
+                    "end_date": "",
+                    "pin_code_range": [],
+                    "prebook_enabled": true,
+                    "prebook_event_name": "Purani Dilli",
+                    "prebook_event_description": "Purani Dilli Pre Event Booking Feature",
+                    "featuring_restaurants": [
+                        {
+                            "id": "d766c2d7-cf0c-4b8b-8422-2b9fcafdd744",
+                            "name": "Masala Kraft",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "Taj Mahal Palace",
+                            "cost_for_two": 4000,
+                            "restaurant_details_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "menu_page_header_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Secondary-(2).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "home_page_card_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "cuisines": "Indian Cuisine"
+                        }
+                    ],
+                    "featuring_hotels": [
+                        {
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "The Taj Mahal Palace",
+                            "hotel_code": "TMPT",
+                            "hotel_image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/qmin-hotels/phase-2/TMPT-Image.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "distance_in_km": 2.9
+                        }
+                    ]
+                },
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a> "
+                },
+                "is_viewed": true
+            },
+            {
+                "story_id": "b7e39480-e03f-4aad-95f2-95093d8c1a0e",
+                "sort_sequence": 4,
+                "content_type": "video",
+                "content_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/videos/Video-with-audio-1.mp4",
+                "cta_text": "Order Now",
+                "cta_type": "internal",
+                "cta_target_element_type": "festive_menu",
+                "cta_target_element_id": "2022-Mumbai-Purani Dilli",
+                "meta": {
+                    "id": "2022-Mumbai-Purani Dilli",
+                    "festival_id": "2022-Mumbai-Purani Dilli",
+                    "festival_name": "Purani Dilli",
+                    "festival_description": " ",
+                    "banner_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "festival_icon_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/festive/puran-delhi-banners/Qmin-Purani-Dilli-Banners-02.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                    "start_date": "",
+                    "end_date": "",
+                    "pin_code_range": [],
+                    "prebook_enabled": true,
+                    "prebook_event_name": "Purani Dilli",
+                    "prebook_event_description": "Purani Dilli Pre Event Booking Feature",
+                    "featuring_restaurants": [
+                        {
+                            "id": "d766c2d7-cf0c-4b8b-8422-2b9fcafdd744",
+                            "name": "Masala Kraft",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "Taj Mahal Palace",
+                            "cost_for_two": 4000,
+                            "restaurant_details_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "menu_page_header_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Secondary-(2).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "home_page_card_img_url": "https://www.tatadigital.com/content/dam/ihcl-fine-dine-app/taj/taj-mahal-palace/masala-kraft-restaurant-images/Masala-Kraft-Primary-(1).jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "cuisines": "Indian Cuisine"
+                        }
+                    ],
+                    "featuring_hotels": [
+                        {
+                            "hotel_id": "90007bbd-955b-4fcc-90a7-b1963a0fcd82",
+                            "hotel_name": "The Taj Mahal Palace",
+                            "hotel_alias": "The Taj Mahal Palace",
+                            "hotel_code": "TMPT",
+                            "hotel_image_url": "https://tatadigital.com/content/dam/ihcl-fine-dine-app/default/qmin-hotels/phase-2/TMPT-Image.jpg/jcr:content/renditions/cq5dam.web.640.640.png",
+                            "distance_in_km": 2.9
+                        }
+                    ]
+                },
+                "footer": {
+                    "social_icon_url": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+                    "text": "Follow us on <a href='https://www.instagram.com/qminapp/'>@qminapp</a> "
+                },
+                "is_viewed": false
+            }
+        ],
+        "feed_id": "e62399e8-b1fd-47ee-86b1-b2c5a2106caf",
+        "is_viewed": false,
+        "story_index": 3
+    }
+]
